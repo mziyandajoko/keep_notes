@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550018547929",
+    "project_id": "flutter-keep-my-notes",
+    "storage_bucket": "flutter-keep-my-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550018547929:android:f3da3b53d83b1a307ffec8",
+        "android_client_info": {
+          "package_name": "com.example.keep_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550018547929-lkasa2f2341glhsofsrea66oilejsefa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOI9T5GOj21sAgL1m76TIn64fyzTUqv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550018547929-lkasa2f2341glhsofsrea66oilejsefa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
